@@ -1,0 +1,19 @@
+{
+  "name": "html-tidy",
+  "version": "1.0.0",
+  "description": "Adds a HTML Tidy support to Chocolat",
+  "main": "init.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudge/html-tidy.chocmixin.git"
+  },
+  "keywords": [
+    "tidy",
+    "html",
+    "pretty",
+    "code"
+  ],
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT"
+}
